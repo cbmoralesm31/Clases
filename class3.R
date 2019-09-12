@@ -1,7 +1,7 @@
 ## Class 3 September 9th
 ## Tidyverse and Tidyr
-## There's only two functions for today, but really complex. ** gaather** an **spread**  make tables vertical
-## and horizontal, respectively. **gather** takes every column and put it in order, key recognize the headline
+## There's only two functions for today, but really complex. ** gather** an **spread**, it makes tables vertical
+## and horizontal, respectively. **gather** takes every column and put it in order, "key" recognize the headline
 ## and value= recognize the rest of the rows. If one column is already a tidy form, we can put less (-) as the
 ## final argument, in front of the name of the original column.
 
